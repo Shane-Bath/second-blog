@@ -1,5 +1,5 @@
 ---
-name: Epic
+name: EPIC
 about: This is our EPIC template
 title: Epic:<TITLE>
 labels: ''
